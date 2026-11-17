@@ -1,0 +1,6 @@
+# Artefactos de compilación
+*.o
+*.d
+xconnect
+xconnect-helper
+build.log
