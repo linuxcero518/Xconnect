@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Xconnect
+GenericName=Gestor de VPN
+Comment=Conecta perfiles WireGuard y OpenVPN
+Exec=xconnect
+Icon=network-vpn
+Terminal=false
+Categories=Network;Security;
+Keywords=vpn;wireguard;openvpn;
